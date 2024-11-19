@@ -1,0 +1,15 @@
+{
+  "name": "vitest-repro",
+  "version": "1.0.0",
+  "description": "Repro for a Vitest Explorer bug",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.1.5"
+  }
+}
